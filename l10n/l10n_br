@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<texts>
+		<!-- Keys -->
+		<text name = "input_MENU_EXTRA_3" text = "Melhores contratos: Detalhes Ligado/Desligado"/>
+		<!-- Gui Buttons -->
+		<text name="bc_hidden" text="Oculto: %d" />
+		<text name="bc_other" text="Outros" />
+		<text name="bc_new_contracts" text="Novos Contratos" />
+		<text name="bc_clear_contracts" text="Limpar Contratos" />
+		<text name="bc_detailsOff" text="Detalhes Desligado" />
+		<text name="bc_detailsOn" text="Detalhes Ligado" />
+
+		<!-- Hard mode -->
+		<text name="bc_penalty" text="Penalidade" />
+		<text name="bc_warnTimeout" text="Por favor, conclua seu(s) %d contrato(s) na próxima hora, para evitar penalidades de contrato." />
+		<text name="bc_warnCancel" text=" A penalidade contratual será de pelo menos " />
+
+		<!-- discount mode -->
+		<text name="bc_maxJobs" text="Você atingiu o desconto máximo para %s." />
+		<text name="bc_discount" text=" (%d%% desconto)" />
+		<text name="bc_discValue" text="%s concede a você %d %% desconto para futuras compras de campo." />		
+		<!-- Display texts -->
+		<text name="bc_harvest" text="Colheita de:" />
+		<text name="bc_leased" text="Alugado " />
+		<text name="bc_enoughMissions" text="Sua fazenda já tem o número máximo de contratos." />
+
+		<text name="SC_widhei" text="Largura/Altura máxima:" />
+		<text name="SC_worktim" text="Tempo Estimado:" />
+		<text name="SC_price" text="Preço:" />
+		<text name="SC_profpmin" text="Lucro/Minuto:" />
+		<text name="SC_sort" text="Ordenar por:" />
+
+		<text name="SC_field" text="Campo %d / %s" />
+		<text name="SC_fillType" text="Tipo de mercadoria:" />
+		<text name="SC_worked" text="Campo trabalhado:" />
+		<text name="SC_delivered" text="Entregue:" />
+		<text name="SC_deliver" text="Deve entregar:" />
+		<text name="SC_keep" text="Pode manter:" />
+		<text name="SC_profit" text="Lucro da colheita:" />
+		<text name="SC_profitSupply" text="Lucro:" />
+		<text name="SC_usage" text="Utilização:" />
+		<text name="SC_cost" text="Custo do material:" />
+		<text name="SC_togo" text="Deve ser entregue:" />
+		<text name="SC_timeleft" text="Tempo restante:" />
+
+		<!-- Sort button help text -->
+		<text name="SC_sortCat" text="Tipo de missão" />
+		<text name="SC_sortProf" text="Lucro líquido" />
+		<text name="SC_sortpMin" text="Lucro por minuto" />
+	</texts>
+</l10n>
